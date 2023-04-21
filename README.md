@@ -17,7 +17,7 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Screenshot
 
-![screenshot da tela](https://ibb.co/NmWdpyC)
+![screenshot da tela](screen qrcode.jpg)
 
 ## Links
 
